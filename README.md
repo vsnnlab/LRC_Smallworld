@@ -20,6 +20,6 @@ Seungdae Baek, Youngjin Park, and Se-Bum Paik*
 ### 3. Instructions for demo
 - By running "Main.m" and selecting code option and figure option (see line 35 - 41 on the Main.m)
   code options :
-   i) flg_ShowRes : Show the result figure of demo code using the pretrained network (in pretrainedNet.zip)
-   ii) flg_Demo : Run the demo code using a randomly initialized network
+  i) flg_ShowRes : Show the result figure of demo code using the pretrained network (in pretrainedNet.zip)
+  ii) flg_Demo : Run the demo code using a randomly initialized network
   figure options : flg1 - Result 1 / flg2 - Result 2 / flg3 - Result 3 
