@@ -1,5 +1,5 @@
 ### Demo codes for
-### "Species-specific wiring of cortical circuits for small-world networks in the brain" </br>
+### "Species-specific wiring of cortical circuits for small-world networks in the primary visual cortex" </br>
 
 Seungdae Baek, Youngjin Park, and Se-Bum Paik*
 
