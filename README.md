@@ -16,10 +16,17 @@ Seungdae Baek, Youngjin Park, and Se-Bum Paik*
 - Choose the proper subfolder of 'fun_modifed_toolbox' which is matched to your MATLAB version and
   Move each file to the proper directory
 - Expected Installation time is about 45 minutes, but may vary by system conditions.
+- Download the MNIST dataset (Y. LeCun et al., 2010), when you train the network model. Move each file to 'fun_stimulus\MNIST\'
+- Download 'Data.zip' from below link and unzip files in the same directory
+- [Data URL] :
+
  
-### 3. Instructions for demo
-- By running "Main.m" and selecting code option and figure option (see line 35 - 41 on the Main.m)
-  code options :
-  - i) flg_ShowRes : Show the result figure of demo code using the pretrained network (in pretrainedNet.zip)
-  - ii) flg_Demo : Run the demo code using a randomly initialized network 
-      figure options : flg1 - Result 1 / flg2 - Result 2 / flg3 - Result 3 
+### 3. Instructions for execution
+- The result of the figure can be regenerated through the code of the folders below:
+  - i) Fig1: Species-specific existence of long-range horizontal connectivity in V1 (Fig.1)
+  - ii) Fig2_3: Integration of global information by LRCs in a large network (Fig.2)
+                Local connections are required to integrate local information in a large network (Fig.3)
+  - iii) Fig4_5: LRCs organize a small-world network to enable the recognition of various visual features (Fig.4)
+                 Small-world coefficient of the network predicts the size-dependent effect of LRCs for visual encoding (Fig.5)
+  - iv) Fig6: Emergence of LRCs for size-dependent optimization of the performance and wiring cost (Fig.6)
+- Raw data of the figure can be found in the "Data.zip"
