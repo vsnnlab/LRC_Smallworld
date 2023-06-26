@@ -15,10 +15,10 @@ Seungdae Baek, Youngjin Park, and Se-Bum Paik*
 - Download "LRC_code.zip" and unzip the file.
 - Choose the proper subfolder of 'fun_modifed_toolbox' which is matched to your MATLAB version and
   Move each file to the proper directory
-- Expected Installation time is about 45 minutes, but may vary by system conditions.
 - Download the MNIST dataset (Y. LeCun et al., 2010), when you train the network model. Move each file to 'fun_stimulus\MNIST\'
 - Download 'Data.zip' from below link and unzip files in the same directory
-- [Data URL] :
+- [Data URL] : https://doi.org/10.5281/zenodo.8081752
+- Expected Installation time is about 45 minutes, but may vary by system conditions.
 
  
 ### 3. Instructions for execution
